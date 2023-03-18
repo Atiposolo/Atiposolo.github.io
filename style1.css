@@ -1,0 +1,120 @@
+.contein{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://www.opentourismelab.com/wp-content/uploads/2022/07/site-1200x800.png);
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.entete{
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    letter-spacing: 0.3rem;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+p{
+    margin-top: -70px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    font-size: 22px;
+    line-height: 1.6;
+    font-weight: 600;
+    letter-spacing: 0.059em;
+    color: white;
+    text-align: center;
+}
+.row{
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+.col{color: white;
+    float: left;
+    width: 150%;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+.card{
+    width: 200px;
+    height: 230px;
+    
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: cubic-bezier();
+}
+
+.cardA{
+    padding:0px 20px 0px 20px;
+    float:left ;
+    background-image: url(https://th.bing.com/th/id/R.007e47dd5d2951d6d8f77cc1ea651f36?rik=DB9SJXNyCZSbUQ&pid=ImgRaw&r=0)
+}
+.cardB{
+    padding: 0px;
+    float: left;
+    background-image: url(https://th.bing.com/th/id/R.8dfc1fc0817b4ec9655ae1bafc21be45?rik=n2QlMFjjyAwdrA&pid=ImgRaw&r=0)
+        }
+.cardC{padding: 0px 20px 0px 20px;
+    float: left;
+    background-image: url(https://i.pinimg.com/736x/47/0e/cd/470ecd092f9671130c4bed979f73c956.jpg)
+}
+
+.cardE{
+    padding: 0px 20px 0px 20px;
+    margin-left: 150px;
+    float: left;
+    background-image: url(https://th.bing.com/th/id/R.1b3d10c86b223894f9feaef6359ff0f7?rik=0RilDM5DMq0t9w&pid=ImgRaw&r=0)
+}
+.cardF{padding: 0px 20px 0px 20px;
+    float: left;
+    background-image: url(https://th.bing.com/th/id/R.8784710402b9b315625a54c1277400ae?rik=vrBk5Pc7aGXiIA&pid=ImgRaw&r=0)
+}
+footer{
+    display: block;
+    margin-top: 0px;
+    background-color:black ;
+    color:white;
+    margin-bottom: 0px;
+    height: 50%;
+   padding-left: 100px;
+   padding-right: 100px;
+}
+#ad,#ae{
+    margin-top: 10px;
+float: left;
+margin-left: 200px;
+
+}
+#ar{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 22px;
+    line-height: 1.6;
+    font-weight: 600;
+    letter-spacing: 0.059em;
+    color: white;
+    float: left;
+}
+h5{
+    font-size: xx-large;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li:hover{
+color: white;
+}
+.icon{
+    font-size: 50px;
+    padding-top: 220px;
+}

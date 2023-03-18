@@ -1,0 +1,43 @@
+.place{
+    padding: 10px;
+}
+.milieu{
+    text-align: center;
+    color: white;
+}
+.bb{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+.gg{
+    text-align: center;
+    margin-bottom: 15px;
+    color: white;
+}
+.ff{
+    float: right;
+}
+.jj{
+    background-image: url(https://th.bing.com/th/id/R.ee830ccd0cb68c95331bb3003142e90d?rik=pJoegC%2fQooGYNg&riu=http%3a%2f%2fdata.1freewallpapers.com%2fdownload%2fvoyage.jpg&ehk=Bxf089mMk20wUIwHGw7wivwNh4dsOyA4%2btNb%2b7XvjYE%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+a{
+border: solid;
+padding: 5px;
+border-color: grey;
+border-width: 1px;
+border-radius: 5px;
+text-decoration: none;
+color: black;
+background-color: red;
+}
+input[type="submit"]{
+    background-color: hsl(240, 71%, 73%);
+}
